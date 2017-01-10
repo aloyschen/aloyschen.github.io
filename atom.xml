@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>要起飞的菜鸟</title>
-  <subtitle>code&amp;ltc</subtitle>
+  <subtitle>code and heart ltc</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aloyschen.github.io/"/>
@@ -19,7 +19,7 @@
     <title>Hexo搭建github博客</title>
     <link href="http://aloyschen.github.io/2017/01/10/hello-world/"/>
     <id>http://aloyschen.github.io/2017/01/10/hello-world/</id>
-    <published>2017-01-10T10:24:09.446Z</published>
+    <published>2017-01-10T10:27:58.276Z</published>
     <updated>2017-01-10T07:52:37.000Z</updated>
     
     <content type="html"><![CDATA[<p><strong>看到别人搭建的github博客比较酷炫，自己也想弄一个，然后搭建了这个博客，用于记录自己平时的一些技术分享，步骤如下:</strong></p>
